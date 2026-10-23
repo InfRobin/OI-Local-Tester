@@ -1,2 +1,0 @@
-e76a21c427be398af4c05ca76af3459bbe3221da6cac1f919f81e4e954555a65  OI-Tester-1.1.0-portable.zip
-1b01e909e6d3e3657abf6a909a61e83d353ccc2186452dc3a0ff3a6c7f75b9d7  OI-Tester-1.1.0-lite.zip
